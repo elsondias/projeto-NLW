@@ -1,1 +1,8 @@
 # projeto-NLW
+
+##TECNOLOGIAS USADAS
+
+- HTML
+- CSS 
+- JAVASCRIPT
+- GITHUB
